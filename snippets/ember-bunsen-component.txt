@@ -1,0 +1,20 @@
+import AbstractInput from './abstract-input'
+
+export default AbstractInput.extend({
+  // == Component Properties ===================================================
+
+  classNames: [
+    'frost-field'
+  ],
+
+  layout,
+
+  // == Computed Properties ====================================================
+
+  // == Functions ==============================================================
+
+  // == Actions ===============================================================
+
+  actions: {
+  }
+})
